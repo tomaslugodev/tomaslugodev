@@ -1,5 +1,6 @@
 # 💫 About Me:
 💻 I'm currently working as a Freelance Full-Stack Dev.<br>
+📓 I'm learning something new everyday on my way to become a better developer!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lugotomasleandro) 
