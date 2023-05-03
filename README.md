@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently working as a Freelance Front-End Dev.<br>📓 I'm learning Full-Stack development as a self-taught student.
+💻 I'm currently working as a Freelance Full-Stack Dev.<br>📓
 
 
 ## 🌐 Socials:
